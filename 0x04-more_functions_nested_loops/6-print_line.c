@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_line - print a straight line 
+ * print_line - print a straight line
  * @n: parameter
  * Return:returns nothing
  */
