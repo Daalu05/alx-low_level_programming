@@ -20,8 +20,14 @@ void print_diagonal(int n);
 void print_square(int size);
 void print_triangle(int size);
 # 2 "2-mul.c" 2
-# 11 "2-mul.c"
-int mul(int a, int b);
+
+
+
+
+
+
+
+int mul(int a, int b)
 {
  return (a * b);
 }
