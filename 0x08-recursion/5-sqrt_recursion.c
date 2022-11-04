@@ -2,7 +2,7 @@
 
 /**
  * _sqrt_recursion - evaluate sqrt
- * @n: integere
+ * @n: integer
  * Return: sqrt_recursion
  */
 int _sqrt_recursion(int n)
@@ -12,7 +12,7 @@ int _sqrt_recursion(int n)
 	if (i < 0)
 	return (-1);
 
-	elsee
+	else
 	{
 	return (_evaluate(i, n));
 	}
