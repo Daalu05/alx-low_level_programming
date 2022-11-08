@@ -1,11 +1,4 @@
-!<arch>
-main.h/         0           0     0     644     820       `
-#ifndef MAIN_H
-#define MAIN_H
-/**
- * file: main.h
- * main.h: Header file contains all the prototypes of all functions included in the statoc library libmy.a
- */
+#include <stdlib>
 
 int _putchar(char c);
 int _islower(int c);

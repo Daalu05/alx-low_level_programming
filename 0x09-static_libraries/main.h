@@ -1,12 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
-#include <stdio.h>
-
-/**
- * main.h: Header file contains all the prototypes of all functions included in the static library libmy.a
- * @c : a character
- * _putchar: writes a single character to the standard output stream
- */ 
 
 int _putchar(char c);
 int _islower(int c);
